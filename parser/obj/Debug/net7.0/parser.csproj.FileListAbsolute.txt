@@ -1,0 +1,15 @@
+Z:\flowly\learning\gtfs-learning\parser\bin\Debug\net7.0\parser.exe
+Z:\flowly\learning\gtfs-learning\parser\bin\Debug\net7.0\parser.deps.json
+Z:\flowly\learning\gtfs-learning\parser\bin\Debug\net7.0\parser.runtimeconfig.json
+Z:\flowly\learning\gtfs-learning\parser\bin\Debug\net7.0\parser.dll
+Z:\flowly\learning\gtfs-learning\parser\bin\Debug\net7.0\parser.pdb
+Z:\flowly\learning\gtfs-learning\parser\obj\Debug\net7.0\parser.csproj.AssemblyReference.cache
+Z:\flowly\learning\gtfs-learning\parser\obj\Debug\net7.0\parser.GeneratedMSBuildEditorConfig.editorconfig
+Z:\flowly\learning\gtfs-learning\parser\obj\Debug\net7.0\parser.AssemblyInfoInputs.cache
+Z:\flowly\learning\gtfs-learning\parser\obj\Debug\net7.0\parser.AssemblyInfo.cs
+Z:\flowly\learning\gtfs-learning\parser\obj\Debug\net7.0\parser.csproj.CoreCompileInputs.cache
+Z:\flowly\learning\gtfs-learning\parser\obj\Debug\net7.0\parser.dll
+Z:\flowly\learning\gtfs-learning\parser\obj\Debug\net7.0\refint\parser.dll
+Z:\flowly\learning\gtfs-learning\parser\obj\Debug\net7.0\parser.pdb
+Z:\flowly\learning\gtfs-learning\parser\obj\Debug\net7.0\parser.genruntimeconfig.cache
+Z:\flowly\learning\gtfs-learning\parser\obj\Debug\net7.0\ref\parser.dll
